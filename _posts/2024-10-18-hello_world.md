@@ -12,7 +12,7 @@ This is a test post.
 
 ## Heading 2
 
-```console
+```bash
 bundle exec jekyll s
 ```
 
