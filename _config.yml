@@ -16,7 +16,7 @@ timezone:
 
 title: Tech Mind Map # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: I don't need to know everything; I just need to know where to find it, when I need it. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
