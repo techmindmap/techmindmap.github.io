@@ -7,6 +7,6 @@ tags: [Notes]     # TAG names should always be lowercase
 
 # overapi
 
-cheatsheets for developers
+Cheatsheets for developers
 
 <https://overapi.com>
