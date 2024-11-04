@@ -1,8 +1,8 @@
 ---
 title: Free Images and Pictures
 date: 2024-10-20
-categories: [Note to Self]
-tags: [notes]     # TAG names should always be lowercase
+categories: [Resources]
+tags: [photos, images, pictures]     # TAG names should always be lowercase
 ---
 
 ## Free Photos Websites
