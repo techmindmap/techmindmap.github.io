@@ -21,3 +21,7 @@ tags: [photos, images, pictures]     # TAG names should always be lowercase
 ### Pixabay
 
 > <https://pixabay.com>
+
+### Flaticon
+
+> Vertor Icons and Stickers - <https://www.flaticon.com>
